@@ -1,6 +1,10 @@
 # dot-files
 .files
 
+### emacs
+```
+git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
+```
 
 ### vim
 $ curl https://raw.githubusercontent.com/Shougo/neobundle.vim/master/bin/install.sh > install.sh
