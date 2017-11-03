@@ -1,9 +1,17 @@
 # dot-files
 .files
 
+### Terminal
+https://github.com/Anthony25/gnome-terminal-colors-solarized
+
+
 ### emacs
 ```
+systemctl --user enable emacs.service
+systemctl --user start emacs.service
+
 git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
+sudo dnf install emacs
 ```
 
 ### vim
