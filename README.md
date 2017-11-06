@@ -4,6 +4,8 @@
 ### Terminal
 https://github.com/Anthony25/gnome-terminal-colors-solarized
 
+### Awesome wm
+https://github.com/lcpz/awesome-copycats
 
 ### emacs
 ```
