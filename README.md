@@ -4,6 +4,10 @@
 ### Terminal
 https://github.com/Anthony25/gnome-terminal-colors-solarized
 
+### Alacritty
+sudo dnf copr -y enable mschuwalow/alacritty
+sudo dnf -y install alacritty
+
 ### Awesome wm
 https://github.com/lcpz/awesome-copycats
 
